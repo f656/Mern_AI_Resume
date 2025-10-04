@@ -1,0 +1,17 @@
+# Node modules (backend dependencies)
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: build folder ignore mat karo, kyunki backend serve karta hai
+# build/
